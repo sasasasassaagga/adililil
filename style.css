@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+}
+img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-top: 45px;
+}
+
+.container{
+    background-color: blanchedalmond;
+    width: 200px;
+    height: 250px;
+    text-align: center;
+}
+th{
+    color: white;
+    background-color: black;
+}
+table, th, td{
+    border: 1px solid black;
+    padding: 5px;
+}
+
+table {
+    width: 50%;
+}
+tr:nth-child(odd) {
+    background-color: #ddd;
+}
+.gray-row {
+    background-color: #777070;
+
+}
+
+.header-row{
+    background-color: white;
+}
+
+.gay {
+    color: green;
+    width: 200px;
+    height: 200px; background-color: #000006;
+    color: #887700;
+    float: right;
+    text-align: center;
+    padding: 2px;
+    } 
+p{
+    width: 50%;
+}
